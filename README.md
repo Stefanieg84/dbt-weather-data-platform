@@ -1,1 +1,1 @@
-# dbt-data-platform
+# dbt-weather-data-platform
